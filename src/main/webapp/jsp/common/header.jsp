@@ -13,7 +13,7 @@
             <a class="navbar-brand">ZQ
                 <small>
                     <i class="icon-leaf"></i>
-                    客家人的常菜
+                    客家人的家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
