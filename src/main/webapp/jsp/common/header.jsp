@@ -10,10 +10,10 @@
 
     <div class="navbar-container" id="navbar-container">
         <div class="navbar-header pull-left">
-            <a class="navbar-brand">
+            <a class="navbar-brand">ZQ
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜
+                    客家人的常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
